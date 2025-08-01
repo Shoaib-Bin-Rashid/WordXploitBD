@@ -142,8 +142,8 @@ mridul123
 
 | Command | What it does | Output file |
 | --- | --- | --- |
-| `python wordxploitbd.py --mode smart --target arittro` | Smart wordlist for "shoaib" | `shoaib_smart.txt` |
-| `python wordxploitbd.py --mode extreme --target mridul` | Extreme wordlist for "arittro" | `arittro_extreme.txt` |
+| `python wordxploitbd.py --mode smart --target shoaib` | Smart wordlist for "shoaib" | `shoaib_smart.txt` |
+| `python wordxploitbd.py --mode extreme --target arittro` | Extreme wordlist for "arittro" | `arittro_extreme.txt` |
 | `python wordxploitbd.py --mode superextream --target oly` | Super extreme wordlist for "oly" | `oly_super_extreme.txt` |
 | `python wordxploitbd.py --mode batch --batchfile names.txt --wordlistmode smart` | Smart wordlists for all names in file | `batch_Xploit.txt` |
 | `python wordxploitbd.py --mode batch --batchfile names.txt --wordlistmode extreme` | Extreme wordlists for all names in file | `batch_Xploit.txt` |
