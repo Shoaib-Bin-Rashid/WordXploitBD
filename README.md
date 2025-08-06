@@ -211,4 +211,4 @@ Developed by **Shoaib Bin Rashid (R3D_XplOiT)**
 
 ## 📄 License
 
-MIT License © 2024 Shoaib Bin Rashid (R3D_XplOiT)
+MIT License © 2025 Shoaib Bin Rashid (R3D_XplOiT)
